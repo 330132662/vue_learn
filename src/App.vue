@@ -22,8 +22,9 @@
     }
 </script>
 
-<style>
-
+<style lang="scss">
+    @import "./styles/main";
+    @import "./styles/extra";
 
     body > .container {
         margin-top: 15px;

@@ -29,5 +29,12 @@
 </script>
 
 <style scoped>
-    .title { display: none;}
+    img {
+        /*width: 100px;*/
+        /*height: 100px;*/
+    }
+
+    .title {
+        display: none;
+    }
 </style>
